@@ -2,4 +2,6 @@ checkpoints*
 *.pyc
 JpsTraininig
 run.sh
-
+*.jpeg
+*.txt
+*.pth
